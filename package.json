@@ -1,0 +1,15 @@
+{
+  "name": "file-fox",
+  "version": "1.0.0",
+  "description": "Make files and directories \u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5C\u001b[1;5C\u001b[C work for developers",
+  "main": "fileFox.js",
+  "scripts": {
+    "start": "node fileFox.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fileFox": "./fileFox.js"
+  },
+  "author": "richard hayes",
+  "license": "ISC"
+}
