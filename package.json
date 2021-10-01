@@ -2,13 +2,18 @@
   "name": "fox-file",
   "version": "1.0.0",
   "description": "FoxFile turns file systems into data structures.",
+  "keywords": ["files", "static"],
   "main": "fox-file.js",
   "scripts": {
     "start": "node fox-file.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "fileFox": "./fox-file.js"
+    "fox-file": "./fox-file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strawstack/FoxFile.git"
   },
   "author": "richard hayes",
   "license": "ISC"

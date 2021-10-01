@@ -10,7 +10,7 @@ FoxFile turns file systems into data structures.
 
 `npx fox-file [directory-path]`
 
-Replace `[directory-path]` above with a relative path to a directory starting from the directory where you are running the command.
+Replace `[directory-path]` above with a relative path to a directory starting from the directory where you are running the command. Note: do not terminate the `[directory-path]` argument with a path seperator.
 
 ### Using the fox-file Command
 

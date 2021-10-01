@@ -13,9 +13,7 @@ try {
       registeredExtensions[extension] = callback;
     }
   });
-} catch(e) {
-  console.log(e);
-}
+} catch {}
 
 function main() {
   // Get command line arg
