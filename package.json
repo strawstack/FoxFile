@@ -1,14 +1,14 @@
 {
-  "name": "file-fox",
+  "name": "fox-file",
   "version": "1.0.0",
-  "description": "Make files and directories \u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5C\u001b[1;5C\u001b[C work for developers",
-  "main": "fileFox.js",
+  "description": "FoxFile turns file systems into data structures.",
+  "main": "fox-file.js",
   "scripts": {
-    "start": "node fileFox.js",
+    "start": "node fox-file.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "fileFox": "./fileFox.js"
+    "fileFox": "./fox-file.js"
   },
   "author": "richard hayes",
   "license": "ISC"
