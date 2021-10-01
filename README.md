@@ -1,6 +1,6 @@
 # FoxFile
 
-Fox-file turns file systems into data structures.
+FoxFile turns file systems into data structures.
 
 # Install via NPM
 
